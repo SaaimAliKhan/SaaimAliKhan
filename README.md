@@ -1,4 +1,6 @@
 -  Hi, I’m Saaim Ali Khan
+-  A btech student in CSE with Data Science specialisation
+-  College-Galgotias college of engg. and technology
 -  I’m interested in Web designing,hacking etc.
 -  I’m currently learning c language
 - You can connect with me on linkedin 
